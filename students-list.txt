@@ -1,7 +1,9 @@
 Student1:
 --------
 
-Student2:
+Student2:Firstname: "Berthia
+Birthday: "07072006"
+Village: "Kelilalina"
 --------
 
 Student3:
