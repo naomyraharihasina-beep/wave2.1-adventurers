@@ -8,4 +8,6 @@ Birthday: "07072006"
 Village: "Kelilalina"
 --------
 
-Student3:
+Student3:Firstname: "Marina"
+Birthday: "30102003"
+Village: "Ivoloina"
