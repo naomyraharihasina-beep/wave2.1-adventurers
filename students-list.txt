@@ -1,4 +1,6 @@
-Student1:
+Student1:Firstname: "Naomy"
+Birthday: "19042005"
+Village: "Mandritsara"
 --------
 
 Student2:
