@@ -1,0 +1,3 @@
+Firstname: "Naomy"
+Birthday: "19042005"
+Village: "Mandritsara"
